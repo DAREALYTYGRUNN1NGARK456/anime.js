@@ -1,5 +1,6 @@
 # anime.js
 
+examples coming soon
 
 [Docs](https://animejs.andrewtyd.ga)
 
