@@ -1,0 +1,41 @@
+{
+    "author": {
+      "name": "ytygrunn1ngark456"
+    },
+    "bugs": {
+      "url": "https://github.com/DAREALYTYGRUNN1NGARK456/anime.js/issues"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+      "cheerio": "^1.0.0-rc.5",
+      "node-fetch": "^2.6.1",
+      "random-puppy": "^1.1.0"
+    },
+    "deprecated": false,
+    "description": "An anime node package.",
+    "homepage": "https://www.animejs.andrewtyd.ga/",
+    "keywords": [
+      "anime",
+      "myanimelist",
+      "mal",
+      "kitsu",
+      "search",
+      "anime.js",
+      "manga",
+      "honorific",
+      "meme",
+      "nsfw"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "@ytygrunn1ngark456/anime.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DAREALYTYGRUNN1NGARK456/anime.js.git"
+    },
+    "scripts": {
+      "error": "node index.js",
+      "test": "node ./test/index.test.js"
+    },
+    "version": "2.0.6-beta"
+  }
